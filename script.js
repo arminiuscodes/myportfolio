@@ -19,7 +19,7 @@ const icon4=document.querySelector("#first4");
 function darkmode(){
     logo.style.color="white";
     portfolio.style.color="white";
-    secondh1.style.color="rgb(40, 40, 119)";
+    secondh1.style.color="rgb(3, 137, 185)";
     firsth1.style.color="white";
 
     third.style.color="rgb(40, 40, 119)";
